@@ -5,7 +5,7 @@ Our Project Name is Yolo.
 Our Team Slack Handles is UNTPFH4HW, and with Display name Max.
 
 ## (1) Brief Project Description
-Yolo is a decentralized images dataset to develop ML and AI models based on Filecoin and IPFS. We are planning to storage [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html) on Filecoin and IPFS network by Powergate, and continue to enrich and improve it to be a decentralized dataset.
+Yolo is a decentralized images dataset to develop ML and AI models based on Filecoin and IPFS. We are planning to store [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html) to Filecoin and IPFS network by Powergate, and continue to enrich and improve it to be a decentralized dataset.
 
 ## (2) Link to Project UI
 - [Yolo demo](https://yolo.coinsummer.io)
